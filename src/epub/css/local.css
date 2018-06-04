@@ -11,6 +11,11 @@ b{
 	font-variant: small-caps;
 }
 
+li blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
+
 [epub|type~="se:letter.dateline"]{
 	text-align: right;
 	font-style: italic;
