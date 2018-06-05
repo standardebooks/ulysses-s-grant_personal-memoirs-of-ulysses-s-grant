@@ -9,6 +9,16 @@ abbr.initialism{
 	white-space: nowrap;
 }
 
+section[epub|type~="dedication"]{
+	margin-top: 5em;
+}
+
+section[epub|type~="dedication"] > p{
+	font-variant: small-caps;
+	text-align: center;
+	margin-bottom: 1em;
+}
+
 .letter-location{
 	text-align: right;
 	font-variant: small-caps;
