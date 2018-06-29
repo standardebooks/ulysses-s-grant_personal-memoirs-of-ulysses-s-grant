@@ -297,10 +297,10 @@
 		<itemref idref="chapter-69.xhtml"/>
 		<itemref idref="chapter-70.xhtml"/>
 		<itemref idref="conclusion.xhtml"/>
-		<itemref idref="maps.xhtml"/>
 		<itemref idref="appendix.xhtml"/>
-		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="loi.xhtml"/>
+		<itemref idref="maps.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
