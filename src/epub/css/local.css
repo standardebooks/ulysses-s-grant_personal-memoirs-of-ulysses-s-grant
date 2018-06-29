@@ -24,6 +24,7 @@ b{
 	font-variant: small-caps;
 }
 
+/* This is to properly format blockquotes in endnotes.xhtml */
 li blockquote{
 	margin-left: 0;
 	margin-right: 0;
@@ -53,7 +54,6 @@ section > header{
 figure.full-page{
 	display: block;
 	margin: 0;
-	/* margin-bottom: 0.5em; */
 	max-height: 100%;
 	page-break-before: always;
 	page-break-after: always;
@@ -81,6 +81,7 @@ footer p{
 	text-align: right;
 }
 
+/* This is to handle multi-line letter addresses */
 .letter-location{
 	text-align: right;
 }
@@ -123,6 +124,7 @@ footer p{
 	font-variant: small-caps;
 }
 
+/* These are to format the hierarchical lists in the organization chart in the appendix */
 .organization-chart-1{
 	font-weight: bold;
 	font-variant: small-caps;

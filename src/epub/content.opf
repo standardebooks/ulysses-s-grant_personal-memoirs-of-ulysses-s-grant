@@ -61,7 +61,7 @@
 		<dc:source>https://www.loc.gov/item/2009581114/</dc:source>
 		<dc:source>https://www.loc.gov/item/2008621635/</dc:source>
 		<dc:source>https://www.loc.gov/item/86690227/</dc:source>
-		<meta property="se:production-notes">All maps have been moved to a separate chapter and hyperlinked from the text at the appropriate points. Some maps have been sourced directly from scans from the Library of Congress where the quality was better than the page scans of the book. These are listed as dc:sources in this file.</meta>
+		<meta property="se:production-notes">All maps have been moved to a separate chapter and hyperlinked from the text at the appropriate points. Some maps have been sourced directly from scans from the Library of Congress where the quality was better than the page scans of the book. These are listed as dc:sources in this file. | I have put the huge set of organization charts into the appendix rather than trying to make them into endnotes, and linked them in the ToC.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Personal_Memoirs_of_U._S._Grant</meta>
