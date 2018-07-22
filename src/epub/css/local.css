@@ -62,7 +62,7 @@ figure.full-page{
 }
 
 figure img{
-/*	display: block; */
+	display: block;
 	margin: auto;
 	max-width: 100%;
 }
