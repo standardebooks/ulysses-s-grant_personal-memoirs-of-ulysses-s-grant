@@ -60,8 +60,28 @@ ul{
 	margin-bottom: 0.5em;
 }
 
-footer p{
+footer{
+	margin-top: 1em;
 	text-align: right;
+}
+
+table{
+	border-collapse: collapse;
+	font-variant-numeric: tabular-nums;
+	margin: 1em;
+}
+
+table td,
+table th{
+	padding: .25em;
+}
+
+table td + td{
+	text-align: right;
+}
+
+table tr:last-child td{
+	border-top: 1px solid;
 }
 
 /* This is to handle multi-line letter addresses */
@@ -72,10 +92,6 @@ footer p{
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
 	text-align: left;
-}
-
-[epub|type~="z3998:letter"] footer{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:salutation"]{
