@@ -125,6 +125,11 @@ table tr:last-child td{
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:letter"] footer p[epub|type~="z3998:recipient"]{
+	text-align: left;
+	text-indent: 0;
+}
+
 /* These are to format the hierarchical lists in the organization chart in the appendix */
 .organization-chart-1{
 	font-weight: bold;
