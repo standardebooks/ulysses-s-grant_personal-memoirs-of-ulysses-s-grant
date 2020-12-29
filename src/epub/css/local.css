@@ -92,19 +92,19 @@ table tr:last-child td{
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 	text-indent: 0;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 	text-indent: 0;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:valediction"]{
@@ -126,7 +126,7 @@ table tr:last-child td{
 }
 
 [epub|type~="z3998:letter"] footer p[epub|type~="z3998:recipient"]{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
