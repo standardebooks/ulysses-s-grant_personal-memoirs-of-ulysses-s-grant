@@ -7,8 +7,8 @@ section[epub|type~="dedication"]{
 
 section[epub|type~="dedication"] > p{
 	font-variant: small-caps;
-	text-align: center;
 	margin-bottom: 1em;
+	text-align: center;
 	text-indent: 0;
 }
 
@@ -19,17 +19,17 @@ li blockquote{
 }
 
 [epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
 
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
-	margin-top: 0;
-	margin-right: auto;
 	margin-bottom: 3em;
 	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
@@ -73,8 +73,8 @@ a.mapref{
 }
 
 ul{
-	margin-top: 0.5em;
 	margin-bottom: 0.5em;
+	margin-top: 0.5em;
 }
 
 footer{
@@ -113,14 +113,14 @@ table tr:last-child td{
 
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:valediction"]{
@@ -148,23 +148,23 @@ table tr:last-child td{
 
 /* These are to format the hierarchical lists in the organization chart in the appendix */
 .organization-chart-1{
-	font-weight: bold;
 	font-variant: small-caps;
-	margin-top: 1em;
+	font-weight: bold;
 	margin-bottom: 0.5em;
+	margin-top: 1em;
 	text-indent: 0;
 }
 
 .organization-chart-2{
 	font-variant: small-caps;
-	margin-top: 1em;
 	margin-bottom: 0.5em;
+	margin-top: 1em;
 	text-indent: 0.5em;
 }
 
 .organization-chart-3{
 	font-variant: small-caps;
-	margin-top: 0.5em;
 	margin-bottom: 0.5em;
+	margin-top: 0.5em;
 	text-indent: 1em;
 }
