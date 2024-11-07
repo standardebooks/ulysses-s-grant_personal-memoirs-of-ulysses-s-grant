@@ -73,8 +73,8 @@ a.mapref{
 }
 
 ul{
-	margin-bottom: 0.5em;
-	margin-top: 0.5em;
+	margin-bottom: .5em;
+	margin-top: .5em;
 }
 
 footer{
@@ -150,21 +150,21 @@ table tr:last-child td{
 .organization-chart-1{
 	font-variant: small-caps;
 	font-weight: bold;
-	margin-bottom: 0.5em;
+	margin-bottom: .5em;
 	margin-top: 1em;
 	text-indent: 0;
 }
 
 .organization-chart-2{
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
+	margin-bottom: .5em;
 	margin-top: 1em;
-	text-indent: 0.5em;
+	text-indent: .5em;
 }
 
 .organization-chart-3{
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
-	margin-top: 0.5em;
+	margin-bottom: .5em;
+	margin-top: .5em;
 	text-indent: 1em;
 }
