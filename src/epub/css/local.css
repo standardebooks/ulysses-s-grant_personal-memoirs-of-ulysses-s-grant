@@ -154,6 +154,10 @@ table tr:last-child td{
 	text-indent: 0;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 /* These are to format the hierarchical lists in the organization chart in the appendix */
 .organization-chart-1{
 	font-variant: small-caps;
