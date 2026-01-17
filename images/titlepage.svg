@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
 	<title>The titlepage for the Standard Ebooks edition of Personal Memoirs of Ulysses S. Grant, by Ulysses S. Grant</title>
 	<style type="text/css">
 		text{
@@ -16,6 +16,8 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">PERSONAL MEMOIRS</text>
-	<text class="author" x="700" y="290">ULYSSES S. GRANT</text>
+	<text class="title" x="700" y="130">PERSONAL</text>
+	<text class="title" x="700" y="230">MEMOIRS OF</text>
+	<text class="title" x="700" y="330">ULYSSES S. GRANT</text>
+	<text class="author" x="700" y="490">ULYSSES S. GRANT</text>
 </svg>
