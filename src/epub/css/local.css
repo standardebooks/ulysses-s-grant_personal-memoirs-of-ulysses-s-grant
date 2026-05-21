@@ -23,7 +23,7 @@ li blockquote{
 	text-align: right;
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	margin-bottom: 3em;
