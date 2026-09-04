@@ -31,12 +31,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Personal Memoirs of Ulysses S. Grant</dc:title>
 		<meta property="file-as" refines="#title">Personal Memoirs of Ulysses S. Grant</meta>
-		<dc:subject id="subject-1">Generals -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-1">Generals--United States--Biography</dc:subject>
 		<dc:subject id="subject-2">Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dc:subject>
-		<dc:subject id="subject-3">United States -- History -- Civil War, 1861-1865 -- Campaigns</dc:subject>
-		<dc:subject id="subject-4">Mexican War, 1846-1848 -- Personal narratives</dc:subject>
-		<dc:subject id="subject-5">Presidents -- United States -- Biography</dc:subject>
-		<dc:subject id="subject-6">United States. Army -- Biography</dc:subject>
+		<dc:subject id="subject-3">United States--History--Civil War, 1861-1865--Campaigns</dc:subject>
+		<dc:subject id="subject-4">Mexican War, 1846-1848--Personal narratives</dc:subject>
+		<dc:subject id="subject-5">Presidents--United States--Biography</dc:subject>
+		<dc:subject id="subject-6">United States. Army--Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008105089</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
